@@ -11,7 +11,7 @@ Lo scopo del gioco è allineare quattro simboli consecutivi (X o O) orizzontalme
 Il gioco termina quando uno dei giocatori ha allineato quattro simboli consecutivi oppure quando la griglia è piena e non ci sono più mosse valide.
 Istruzioni per l'installazione e l'esecuzione
 
-Assicurati di avere Python installato sul tuo computer. Puoi scaricarlo da qui.
+Assicurati di avere Python installato sul tuo computer. Puoi scaricarlo da qui:http://www.python.it/download/
 Copia il codice fornito in un file Python con estensione ".py".
 Apri un terminale o prompt dei comandi.
 Naviga nella directory in cui hai salvato il file Python.
